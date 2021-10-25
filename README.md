@@ -1,0 +1,2 @@
+# Bash-
+Proyecto aplicación Bash
